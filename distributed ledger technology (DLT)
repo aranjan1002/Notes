@@ -1,0 +1,16 @@
+distributed ledger technology (DLT)
+
+Distributed ledger technology (DLT) refers specifically to the technological infrastructure and protocols that allow the simultaneous access, validation and updating of records that characterizes distributed ledgers. It works on a computer network spread over multiple entities or locations.
+
+DLT uses cryptography to securely store data, cryptographic signatures and keys to allow access only to authorized users.
+
+The technology also creates an immutable database, which means information, once stored, cannot be deleted and any updates are permanently recorded for posterity.
+
+Examples of distributed ledger technology
+Various types of distributed ledger technology are currently in use.
+
+Blockchain, which bundles transactions into blocks that are chained together, and then broadcasts them to the nodes in the network, is the best-known type of DLT. It powers bitcoin and other cryptocurrencies.
+
+Tangle, another type of DLT, is geared toward IoT ecosystems. The Eclipse Foundation and the IOTA Foundation created the Tangle EE Working Group, which describes Tangle as "a permissionless, feeless, scalable distributed ledger, designed to support trustworthy data and value transfer between humans and machines."
+
+Other well-known distributed ledger technologies include Corda, Ethereum and Hyperledger Fabric.
